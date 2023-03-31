@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-
 # :man_climbing: David
 **`Web Developer`**
 Hello, I am Mbanu David, a web developer with a passion for crafting engaging websites and complex databases. I'm very passionate about solving complicated problems and creating software solutions and also aiming to explore the  endless possibilities in the world of technology.:robot_face: In my liesure time, I go for a walk or play football and basketball.
