@@ -3,7 +3,7 @@
 
 # :man_climbing: David
 **`Web Developer`**
-Hello, I am Mbanu David, a web developer with a passion for crafting engaging websites and complex databases. I'm very passionate about solving complicated problems and creating software solutions.:robot_face: In my liesure time, I go for a walk or play football and basketball.
+Hello, I am Mbanu David, a web developer with a passion for crafting engaging websites and complex databases. I'm very passionate about solving complicated problems and creating software solutions and also aiming to explore the  endless possibilities in the world of technology.:robot_face: In my liesure time, I go for a walk or play football and basketball.
 <br />
 <div align="center" >
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,tailwind,html,css,sass,figma, drawSQL,postgres,postman,jest&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
