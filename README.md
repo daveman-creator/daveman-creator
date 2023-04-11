@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 # :man_climbing: David
 **`Web Developer`**
