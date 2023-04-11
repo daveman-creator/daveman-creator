@@ -6,13 +6,16 @@ Hello, I am Mbanu David, a web developer with a passion for crafting engaging we
 <br />
 <div align="center" >
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,tailwind,html,css,sass,figma, drawSQL,postgres,postman,jest&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+  
 [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,typescript,react,nextjs,html,css,sass,tailwind,figma,postgres,drawSQL,jest&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)
+  
   ## :bar_chart: Github contributions
 <!-- Dark Mode -->
   <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
       <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveman-creator&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only"   alt="David's Language stats" />
     </a>
+    
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
       <img height=185 src="https://github-readme-stats.vercel.app/api?username=daveman-creator&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&show_icons=true&theme=ayu-mirage&bg_color=030917#gh-dark-mode-only" alt="David's Github stats" />
     </a>
