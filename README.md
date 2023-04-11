@@ -32,6 +32,9 @@ Hello, I am Mbanu David, a web developer with a passion for crafting engaging we
     </a>
   </div>
   <br />
+  
 [![David's github activity graph](https://github-graph.herokuapp.com/graph?username=daveman-creator&hide_border=true&radius=15&theme=gruvbox&hide_title=true&bg_color=020712)](https://github.com/daveman-creator#gh-dark-mode-only)
+  
 [![David's github activity graph](https://github-graph.herokuapp.com/graph?username=daveman-creator&hide_border=true&radius=15&theme=gruvbox&hide_title=true&line=020712&color=3572A5&point=3572A5)](https://github.com/daveman-creator#gh-light-mode-only)
+  
 </div>
