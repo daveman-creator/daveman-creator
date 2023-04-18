@@ -13,7 +13,6 @@ Hello, I am Mbanu David, a web developer with a passion for crafting engaging we
   
   ## :bar_chart: Github contributions
 <!-- Dark Mode -->
-  
   <div align="center">
     
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
@@ -30,21 +29,16 @@ Hello, I am Mbanu David, a web developer with a passion for crafting engaging we
     
   </div>
   <!-- Light Mode -->
-  
   <div align="center">
-    
     <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
       
       <img height=185 src="https://github-readme-stats.vercel.app/api/top-langs/?username=daveman-creator&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=cobalt#gh-light-mode-only" alt="David's Language stats" />
-    
-    </a>
+     </a>
     
     <a href="https://github.com/daveman-creator/github-readme-stats#gh-light-mode-only">
       
       <img height=185 src="https://github-readme-stats.vercel.app/api?username=daveman-creator&show_icons=true&count_private=true&line_height=28&hide_border=true&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=cobalt#gh-light-mode-only" alt="David's Github stats" />
-      
-    </a>
-    
+      </a>
   </div>
   <br />
   
